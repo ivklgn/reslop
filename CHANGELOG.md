@@ -2,6 +2,7 @@
 
 ## [Unreleased][unreleased]
 
+- Add light theme: `--theme light|dark` option and `l` hotkey to switch
 - Simplify session controllers, input dispatch, and loading orchestration
 - Enforce structural limits and session dependency direction on library files
 - Show staged/unstaged +/- and staged/remaining totals in status line
